@@ -60,6 +60,7 @@ public class Amazon {
 		FileOutputStream stream2 = new FileOutputStream(file);
 		book.write(stream2);
 		System.out.println("Done ok!!!");
+		System.out.println("Done ok!!!");
 	}
 
 }
