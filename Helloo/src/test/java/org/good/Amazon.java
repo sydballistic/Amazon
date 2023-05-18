@@ -65,5 +65,6 @@ public class Amazon {
 		System.out.println("Vandhucha");
 		
 	}
+	hi hih hi hi i hi hi hi
 
 }
